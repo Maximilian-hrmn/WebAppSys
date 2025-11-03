@@ -19,5 +19,8 @@
             "vmware.vscode-spring-boot",
             "vscjava.vscode-spring-initializr"
         ]
+    },
+    "settings": {
+        "java.compile.nullAnalysis.mode": "disabled"
     }
 }

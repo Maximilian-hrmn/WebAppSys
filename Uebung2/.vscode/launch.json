@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-SpringIoCApplication<SpringIoC>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "edu.fra.uas.SpringIoCApplication",
+            "projectName": "SpringIoC",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
